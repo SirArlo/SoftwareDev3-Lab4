@@ -16,6 +16,14 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Arlo Eardley",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirArlo/SoftwareDev3-Lab4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SirArlo/SoftwareDev3-Lab4/issues"
+  },
+  "homepage": "https://github.com/SirArlo/SoftwareDev3-Lab4#readme"
 }
