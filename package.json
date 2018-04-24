@@ -1,0 +1,21 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list",
+  "main": "database.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mongoose": "^5.0.16"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
