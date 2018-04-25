@@ -1,7 +1,7 @@
 {
-  "name": "shoppinglist",
+  "name": "softwaredev3-lab4",
   "version": "1.0.0",
-  "description": "shopping list",
+  "description": "SoftwareDev3-Lab4",
   "main": "todolist.js",
   "directories": {
     "test": "test"
@@ -16,12 +16,12 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Arlo Eardley",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SirArlo/SoftwareDev3-Lab4.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/SirArlo/SoftwareDev3-Lab4/issues"
   },
